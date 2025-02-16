@@ -1,0 +1,17 @@
+design and develop the website fully as per below requirements including sitemap etc. and leave me end user instructions: The core functionalities and design principles for this service-based website project are as follows:
+Statically Generated Next.js Project: The website should be a statically generated Next.js project. Use Next.js version 14.2.23 and Tailwind CSS.
+Multilingual Support: The website needs to support both Italian and British English. All SEO and keywords, including URL slugs, must be translated for both languages. The URLs should be properly split with href language tags before the main slug, for example, example.com/fr/example/example.
+Service and Location Based Pages: Generate all possible pages by combining services with locations to create location-based SEO services.
+Modular Design: Implement a modular setup, especially for service + location pages, with at least 5-7 different unique vertical blocks to add value to the page. Use SVG icons to enhance this modularity.
+Unique Landing Pages: Each service landing page should be distinct.
+Homepage Design: Create a phenomenal, modern, and mobile-friendly homepage that doesn't scroll horizontally on mobile devices. It should be modular and use images and information about services.
+Contact Page: Include a good-looking "Contact Us" page with contact details.
+Image Usage: Use the images provided in the /public/images/ folder intelligently to build a modern website with good coloring schemes and fonts. Ensure contrasting colors, avoiding white on white or black on black.
+SEO Optimization: Implement detailed SEO practices, focusing on exact phrase matches to keywords. Programmatically implement all slugs and ensure that every index page link has a corresponding index page.
+Technical Considerations:
+Do not use the src directory.
+Implement ISR (Incremental Static Regeneration) for quick and easy rebuilding of the website.
+Use generateStaticParams.
+Maximize build efficiency, speed, and modularity.
+ Services Offered: The company offers Rolls Royce rentals, specifically the Ghost 6.6, and luxury car rentals with a driver service. The services also include Birthdays, Weddings, and Private Parties.
+Locations: Services are offered in the Region of Campania, Italy, with separate pages for specific provinces and cities, such as Avellino, Ariano Irpino, Montoro, Benevento, Montesarchio, San Giorgio del Sannio, Caserta, Aversa, Marcianise, Salerno, Cava de' Tirreni, Battipaglia, Naples, Giugliano in Campania, and Torre del Greco.
