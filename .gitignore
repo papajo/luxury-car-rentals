@@ -16,3 +16,5 @@ build/
 coverage/
 .idea/
 .vscode/
+# Local Netlify folder
+.netlify
